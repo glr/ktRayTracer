@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/504/CS413/ktRayTracer/trunk/include
+END
+glm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/502/CS413/ktRayTracer/trunk/include/glm.cpp
+END
+vec.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/504/CS413/ktRayTracer/trunk/include/vec.h
+END
+glm.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/502/CS413/ktRayTracer/trunk/include/glm.h
+END
